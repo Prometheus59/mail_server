@@ -1,0 +1,22 @@
+{
+  "name": "mail_server",
+  "version": "1.0.0",
+  "description": "Mail server app created with React frontend and Node/Express/Mongo Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prometheus59/mail_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prometheus59/mail_server/issues"
+  },
+  "homepage": "https://github.com/Prometheus59/mail_server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
